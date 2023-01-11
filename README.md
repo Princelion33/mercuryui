@@ -4,9 +4,9 @@
 
 Mercury is a free and open sourced Roblox UI library.
 
-- https://discord.gg/jaunk8nhN5
-- https://discord.com/users/480805591221010456
-- https://discord.com/users/452466034822217739
+- https://discord.gg/85qz47Frad
+- https://discord.gg/85qz47Frad
+- https://discord.gg/85qz47Frad
 
 ## Loadstring
 ```lua
@@ -26,7 +26,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/deeeity/mercury-lib/m
 
 ... more to be added.
 
-Created by [Deity#0228] and [Abstract#8007]
+Created by [Princelion33#7607] and [Jean Estebane#6912]
 
 ## Documentation
 
